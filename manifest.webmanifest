@@ -1,0 +1,12 @@
+{
+  "name": "芋泥在迷宮",
+  "short_name": "芋泥在迷宮",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
